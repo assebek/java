@@ -12,8 +12,8 @@ public class table_exercise {
         int tab2[]={1,4,6,5,3,1,8,7,9,12,7};
         for(int i = 0; i<tab2.length;i++)
         {
-            
-           // System.out.println(tab2[i]);
+            int y,x,z;
+           // System.out.println(tab2[i]); //fsdsdf
         }
 
     }
