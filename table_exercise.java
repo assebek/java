@@ -13,7 +13,7 @@ public class table_exercise {
         for(int i = 0; i<tab2.length;i++)
         {
             
-            System.out.print(tab2[i]);
+           // System.out.println(tab2[i]);
         }
 
     }
